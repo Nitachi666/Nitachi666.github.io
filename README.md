@@ -27,7 +27,7 @@
         <section>
           <h2>Первая секция</h2>
           <p> картинка для настроения </p>
-          <img src="images/image.png" alt="Человек и пароход">
+          <img src="https://img.freepik.com/premium-vector/cat-kitten-image_1138544-183414.jpg" alt="Человек и пароход">
         </section>
         <section>
           <h2>Вторая секция</h2>
