@@ -17,8 +17,8 @@
       <p> Коваленко Никита Сергеевич </p>
       <nav>
         <ul>
-          <li><a href="https://www.instagram.com/lakibamboli/">Эта страница</a></li>
-          <li><a href="catalog.html">Другая страница</a></li>
+          <li><a href="https://www.instagram.com/lakibamboli/">Мой instagram</a></li>
+          <li><a href="https://www.instagram.com/p/BftUg_Jj7ne/?utm_source=ig_web_copy_link">Тут я на фото</a></li>
         </ul>
       </nav>
     </header>
