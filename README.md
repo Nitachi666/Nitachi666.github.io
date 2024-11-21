@@ -1,5 +1,4 @@
-# Nitachi666.github.io
-## Веселый сайт
+# Веселый сайт
 <html lang="ru">
   <head>
     <meta charset="utf-8">
@@ -14,7 +13,7 @@
   </head>
   <body>
     <header>
-      <h1> Коваленко Никита Сергеевич</h1>
+      <h1> Коваленко Никиты Сергеевича</h1>
       <nav>
         <ul>
           <li><a href="https://www.instagram.com/lakibamboli/">Мой instagram</a></li>
