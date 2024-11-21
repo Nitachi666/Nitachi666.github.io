@@ -25,7 +25,6 @@
       <article>
         <section>
           <h2>Первая секция - кртинка для настроения </h2>
-          <p> Котик </p>
           <img src="https://img.freepik.com/premium-vector/cat-kitten-image_1138544-183414.jpg" alt="Человек и пароход">
         </section>
         <section>
