@@ -1,5 +1,4 @@
 # Nitachi666.github.io
-<!DOCTYPE html>
 <html lang="ru">
   <head>
     <meta charset="utf-8">
@@ -14,8 +13,8 @@
   </head>
   <body>
     <header>
-      <h1>Личный сайт</h1>
-      <p>Который сделан на основе готового шаблона</p>
+      <h1> Мой сайт</h1>
+      <p> Коваленко Никита Сергеевич </p>
       <nav>
         <ul>
           <li><a href="index.html">Эта страница</a></li>
@@ -27,23 +26,17 @@
       <article>
         <section>
           <h2>Первая секция</h2>
-          <p>Она обо мне</p>
+          <p> картинка для настроения </p>
           <img src="images/image.png" alt="Человек и пароход">
-          <p>Но может быть и о семантике, я пока не решил.</p>
         </section>
         <section>
           <h2>Вторая секция</h2>
-          <p>Она тоже обо мне</p>
+          <p> тут шутка для настроения </p>
         </section>
         <section>
           <h2>И третья</h2>
-          <p>Вы уже должны были начать догадываться.</p>
+          <p> анекдот.</p>
         </section>
       </article>
     </main>
     <footer>
-      <p>Сюда бы я вписал информацию об авторе и ссылки на другие сайты</p>
-    </footer>
-    <!-- сюда можно подключить jquery <script src="scripts/app.js" defer></script> -->
-  </body>
-</html>
