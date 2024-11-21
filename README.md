@@ -6,10 +6,10 @@
     <title>Заголовок страницы</title>
     <link rel="stylesheet" href="./styles/style.css">
 
-    <meta property="og:title" content="Заголовок страницы в OG">
+        <meta property="og:title" content="Заголовок страницы в OG">
     <meta property="og:description" content="Описание страницы в OG">
-    <meta property="og:image" content="https://img.freepik.com/premium-vector/cat-kitten-image_1138544-183414.jpg">
-    <meta property="og:url" content="https://www.instagram.com/lakibamboli/">
+    <meta property="og:image" content="https://example.com/image.jpg">
+    <meta property="og:url" content="https://example.com/">
   </head>
   <body>
     <header>
