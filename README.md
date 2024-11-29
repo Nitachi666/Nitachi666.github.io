@@ -17,7 +17,7 @@
       <nav>
         <ul>
           <li><a href="https://www.instagram.com/lakibamboli/">Мой instagram</a></li>
-          <li><a href="https://www.instagram.com/p/BftUg_Jj7ne/?utm_source=ig_web_copy_link">Тут я на фото</a></li>
+          <li><a href="file:///C:/Users/Professional/Desktop/photo_2024-11-29_13-44-56.jpg">Тут я на фото</a></li>
         </ul>
       </nav>
     </header>
